@@ -28,6 +28,9 @@ Slicers were incorporated to enhance interactivity and user control. They allowe
 Area Chart Visual
 The area chart was used to illustrate trends over time, particularly cumulative sales growth or decline. By shading the area under the line, this visual emphasized the magnitude of changes and provided a clear picture of overall performance progression. It was effective in highlighting long‑term trends and seasonal variations.
 
+#OUTPUT#
 
-This is about 500 words, written in a professional and descriptive style. Would you like me to also reframe it in a more academic tone (like for a project submission), or keep it in this business‑report style?
+<img width="1277" height="717" alt="Image" src="https://github.com/user-attachments/assets/66d3dd00-02d7-4116-933e-5b77da95bb7f" />
+
+
 
